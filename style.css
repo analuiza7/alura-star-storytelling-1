@@ -1,1 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Reddit+Sans+Condensed:wght@200..900&display=swap');
+:root {
+  --bg-color:EBD3F8
+    --primary-color:AD49E1
+--secondary-color:7A1CAC
+--font:"Nunito Sans",sans-seri;
+}
 
+body {
+  background-color: var(--bg-color);
+}
